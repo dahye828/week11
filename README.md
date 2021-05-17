@@ -27,6 +27,6 @@
              채팅 부분은 현재 user1과 user2의 둘만의 대화는 성공하였으나 그 채팅에 사람을 더 추가하여 단체 채팅으로 제작하는 부분에 어려움을 겪고있음
              
 
-![1](https://user-images.githubusercontent.com/80017979/118529834-e6bf6f80-b77e-11eb-9d60-17afb4df776b.png)
+![1](https://user-images.githubusercontent.com/80017979/118530010-1e2e1c00-b77f-11eb-850c-05caae63d292.png)
              
              
